@@ -7,3 +7,5 @@ The major components that we used in this project are:
 2. L298N Motor Driver
 3. N20 Encoder Motors
 4. IR Sensors
+
+You can run the simulation by downloading the simulator from https://github.com/mackorone/mms-c
